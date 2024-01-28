@@ -10,7 +10,16 @@ td{
     width: 30px;
     padding: 4px;
 }
+td, th{
+    height: 60px;
+}
 table{
     border-collapse: collapse;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.two{
+    height: 30px;
+}
+.three{
+    height: 20px;
 }
