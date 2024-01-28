@@ -1,0 +1,16 @@
+th{
+    border: 2px solid black;
+    text-align: center;
+    width: 30px;
+    background-color: lightgray;
+}
+td{
+    border: 2px solid black;
+    text-align: center;
+    width: 30px;
+    padding: 4px;
+}
+table{
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
