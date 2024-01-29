@@ -10,8 +10,11 @@ td{
     width: 30px;
     padding: 4px;
 }
-td, th{
+tbody td, th{
     height: 60px;
+}
+thead th{
+    height: 30px;
 }
 table{
     border-collapse: collapse;
